@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Contacts
-//
-//  Created by Furkan Sabaz on 16.01.2019.
-//  Copyright © 2019 Furkan Sabaz. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
